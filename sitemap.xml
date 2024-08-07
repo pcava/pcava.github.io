@@ -2,27 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pcava.github.io/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pcava.github.io/proj1/</loc>
-         <lastmod>2024-08-04</lastmod>
+         <lastmod>2024-08-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pcava.github.io/proj2/</loc>
-         <lastmod>2024-08-04</lastmod>
+         <lastmod>2024-08-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pcava.github.io/proj3/</loc>
-         <lastmod>2024-08-04</lastmod>
+         <lastmod>2024-08-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pcava.github.io/proj4/</loc>
-         <lastmod>2024-08-04</lastmod>
+         <lastmod>2024-08-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
